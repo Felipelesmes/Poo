@@ -4,9 +4,8 @@ public class Partida {
 	        TableroCandy tab = new TableroCandy();
 	       tab.llenarTab();
 	       tab.showTab();
-	       tab.llenarTab();
-	       tab.showTab();
 	      
+
 	    }
 	    
 }
